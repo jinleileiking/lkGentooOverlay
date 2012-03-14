@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+    <repo quality="experimental" status="unofficial">
+        <name>lkOverlay</name>
+        <description>Personal Overlay</description>
+        <homepage>https://github.com/jinleileiking/lkOverlay</homepage>
+        <owner type="project">
+            <email>jinleileiking@gmail.com</email>
+            <name>jinleileiking</name>
+        </owner>
+        <source type="git">git://github.com/Etrnls/etrnlay.git</source>
+    </repo>
+</repositories>
